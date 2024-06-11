@@ -20,7 +20,7 @@ ___
 
 ### Running from source
 
-- To install the `thor` binary, follow the instructions in the [build](build) guide.
+- To install the `thor` binary, follow the instructions in the [build](build.md) guide.
 
 Connect to vechain's mainnet:
 
